@@ -35,8 +35,8 @@ This is the file path to the screenshot
 
 ### Links
 
-- Solution URL: [https://github.com/aeleneh/qr-code-component.git]
-- Live Site URL: [(https://aeleneh.github.io/qr-code-component/)]
+- Solution URL: [https://github.com/aeleneh/Blog-Preview.git]
+- Live Site URL: [(https://aeleneh.github.io/Blog-Preview.git/)]
 
 ## My process
 
@@ -45,7 +45,7 @@ This is the file path to the screenshot
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [Google fonts](https://fonts.google.com/specimen/Outfit) - For fonts
+- [Google fonts](https://fonts.google.com/specimen/Figtree) - For fonts
 
 
 
