@@ -8,15 +8,16 @@ html {
 
 .entire-body {
     background-color: #ffdd40;
-  font-family: "Figtree", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    min-height: 100vh;
 }
 
 .blog-content {
     background-color: #fff;
-    width: 25rem;
-    max-width: 50rem;
+    width: 21.8rem;
+    max-width: 43.8rem;
     border-radius: 1.25rem;
     margin: 10rem auto;
     display: flex;
@@ -28,7 +29,7 @@ html {
 }
    
 .image {
-    width: 22.5rem;
+    width: 20rem;
     margin-top: 1rem;
     border-radius: 0.6rem;
 }
@@ -89,7 +90,6 @@ html {
 }
 
 .attribution { 
-    margin-top: 10rem;
     font-size: 0.67rem; 
     text-align: center; 
 }
