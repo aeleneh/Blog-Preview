@@ -36,7 +36,7 @@ This is the file path to the screenshot
 ### Links
 
 - Solution URL: [https://github.com/aeleneh/Blog-Preview.git]
-- Live Site URL: [(https://aeleneh.github.io/Blog-Preview.git/)]
+- Live Site URL: [https://aeleneh.github.io/Blog-Preview/)]
 
 ## My process
 
@@ -51,7 +51,7 @@ This is the file path to the screenshot
 
 ### What I learned
 
-I learned that less is more, by mantaining good practice of naming my classes well and using the right css rule. The most challam=nging thing was using the right unit to measure dimensions
+I learned that box shadow and border color can't exactly coexist in css. And i learned using responsive unit such as rem for measuring dimensions.
 
 ### Continued development
 
